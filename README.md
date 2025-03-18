@@ -1,1 +1,2 @@
 # Calorie-Tracking-Using-Image-Recognition
+This project focuses on food image classification using a deep learning model based on MobileNetV2. The goal is to train a convolutional neural network (CNN) that can recognize different food items from images, using a dataset labeled with food categories. The model is trained with TensorFlow and Keras on food images from the COCO Food Items dataset and utilizes transfer learning for improved accuracy.
